@@ -1,0 +1,50 @@
+body{
+ background-color: #B5DEFF;
+}
+
+
+title{
+
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+hr{
+   border-style: none;
+   border-top-style: dotted;
+   width: 5%;
+   border-color: grey;
+   border-width: 10px;
+   font: italic small-caps bold 16px/2 cursive;
+}
+
+h1{
+  color:  #345B63;
+}
+
+h3{
+  color: #345B63;
+
+}
+
+p{
+  font: italic small-caps bold 12px/2 cursive;
+
+}
+
+td{
+
+  font: small-caps bold 15px/1 sans-serif;
+}
+
+p:hover{
+  color: red;
+
+}
+
+a:hover{
+  background-color: white;
+}
+
+.name:hover{
+  color: red;
+}

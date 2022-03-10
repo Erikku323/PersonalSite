@@ -1,0 +1,51 @@
+body{
+ background-color: black;
+ color: green;
+ font-family: monospace;
+ text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
+
+}
+
+h2{
+  margin-top: 2px;
+  padding-top: 2px;
+  font-size: 30px;
+}
+
+
+hr{
+  border-style: dashed;
+  width: 75%;
+
+}
+
+a{
+  color: blue;
+}
+
+
+
+.WelcomeText{
+text-align: left;
+
+
+}
+
+
+.SharksProject{
+  text-align: center;
+  border-style: solid;
+  width: 25%;
+}
+
+div:hover{
+border-color: blue;
+
+
+}

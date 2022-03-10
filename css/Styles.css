@@ -1,0 +1,99 @@
+body{
+ background-color: black;
+ color: green;
+ font-family: monospace;
+ text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
+
+}
+
+h2{
+  margin-top: 2px;
+  padding-top: 2px;
+  font-size: 30px;
+}
+
+
+hr{
+  border-style: dashed;
+  width: 75%;
+
+}
+
+a{
+  color: blue;
+}
+
+p{
+  font-size: 20px;
+}
+
+dt{
+ font-weight: bolder;
+ font-size: 15px
+}
+
+.WelcomeText{
+text-align: left;
+
+}
+
+.InformationDiv{
+ width: 50%;
+ text-align: center;
+ justify-content: center;
+ border-style: solid;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ padding-bottom: 20px;
+
+}
+
+.ScreenShotDiv{
+  width: 25%;
+  text-align: center;
+  border-style: solid;
+  margin: 20px;
+  float: left;
+
+}
+
+.ScreenShotImg{
+max-width: 75%;
+max-height: 75%;
+
+}
+
+.LeftMargin{
+  margin-left: 150px;
+
+}
+
+.FeaturesList{
+text-align: left;
+margin-left: 20px
+}
+
+.ImporantDownloads{
+font-size: 20px;
+
+}
+
+
+.ScreenShotGallery{
+  width: 100%;
+
+}
+
+.ScreenShotDiv:hover{
+width: 50%;
+height: 50%;
+
+}
